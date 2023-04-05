@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/Fillings/static/js/main.bd0d2003.js",
+    "static/media/logo.png": "/Fillings/static/media/logo.cc056969726319a5d072.png",
+    "static/media/patterns.png": "/Fillings/static/media/patterns.3d7b0a6a23c1add6709a.png",
+    "static/media/courseEnq.png": "/Fillings/static/media/courseEnq.4beaf2d2d7a524b26940.png",
+    "static/media/jobsupport.png": "/Fillings/static/media/jobsupport.1e41af49671658ce637a.png",
+    "static/media/tax.png": "/Fillings/static/media/tax.c2b217f75235439bbb01.png",
+    "index.html": "/Fillings/index.html",
+    "main.bd0d2003.js.map": "/Fillings/static/js/main.bd0d2003.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bd0d2003.js"
+  ]
+}
