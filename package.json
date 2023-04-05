@@ -1,6 +1,6 @@
 {
   "name": "filings-frontend",
-  "homepage":"https://isaacgithub1.github.io/Fillings/",
+  "homepage":"https://isaacgithub1.github.io/Fillings-preview/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
